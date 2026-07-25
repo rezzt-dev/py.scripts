@@ -1,0 +1,27 @@
+# entornos virtuales
+venv/
+.env/
+.venv/
+
+# datos de usuario generados por la aplicacion
+.only_one_key/
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# tests / cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ides
+.vscode/
+.idea/
+*.swp
+*.swo

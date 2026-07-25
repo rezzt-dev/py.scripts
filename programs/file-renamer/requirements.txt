@@ -1,0 +1,5 @@
+# Dependencias de producción (también definidas en pyproject.toml).
+# pyproject.toml es la fuente canónica; este archivo se mantiene como referencia rápida.
+
+typer>=0.9.0
+rich>=13.0.0
