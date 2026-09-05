@@ -139,9 +139,12 @@ pip install -r requirements.txt  # si existe en el subproyecto
 
 ## LICENCIA
 
-- `programs/file-renamer`: mit.
+este repositorio se publica por defecto bajo "todos los derechos reservados" (ver [LICENSE](./LICENSE)): no se concede ninguna licencia de uso, copia, modificacion o distribucion sin permiso previo y por escrito del autor.
+
+excepcion ya publicada y mantenida como tal:
+- `programs/file-renamer`: mit (mantiene su licencia mit propia dentro de su carpeta).
 - `programs/only-one-key`: uso personal; consulta al autor antes de redistribuir.
-- los scripts sueltos y la documentacion de agentes: consulta los archivos individuales o asume uso personal segun la intencion del autor.
+- el resto de scripts sueltos y la documentacion de agentes: sujetos a la licencia general del repositorio (todos los derechos reservados) salvo que se indique lo contrario en el propio archivo.
 
 ---
 
